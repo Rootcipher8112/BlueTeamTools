@@ -8,6 +8,7 @@ This repository contains scripts for various blue team cybersecurity tasks, cate
 2. [SIEM Integrations](./SIEM-Integrations/README.md)
 3. [Incident Response Automation](./Incident-Response-Automation/README.md)
 4. [Threat Hunting](./Threat-Hunting/README.md)
+5. [Forensics and Artifact Collection](./Forensics-and-Artifact-Collection.md)
 
 # Changelog
 
