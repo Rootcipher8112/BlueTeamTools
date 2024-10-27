@@ -14,6 +14,11 @@ This repository contains step-by-step checklists for investigating different typ
 6. **Anomaly Detection Alert Checklist**: Steps for investigating unusual or suspicious activities detected in the network.
 
 ---
+## Security Incident Investigation Form
+
+I have put together a standardized form to record imprtant information gathered during the triage and investigation process as it is crucial to take good records when performing an investigation. This is not only helpful to yourself but to your peers as well when incidents are escalated to higher tier analysts, incident responders, or threat hunters.
+
+[Here is a link to the form](https://github.com/Rootcipher8112/BlueTeamTools/blob/main/SOC%20Alert%20Investigation%20Checklist/Security%20Incident%20Investigation%20Form.md)
 
 ## Purpose
 
